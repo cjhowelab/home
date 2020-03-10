@@ -9,7 +9,7 @@ description:        "this is a page for Cristopher J. Howe lab, at the Universit
 
 
 # URL
-url:                http://kordinglab.com
+url:                https://cjhowelab.github.io/home/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -24,7 +24,7 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
+  - name:           "research"
     href:           "/about"
   - name:           "publications"
     href:           "/publication"
