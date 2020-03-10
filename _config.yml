@@ -9,8 +9,8 @@ description:        "this is a page for Cristopher J. Howe lab, at the Universit
 
 
 # URL
-url:                / # https://cjhowelab.github.io/home/
-#baseurl:            "" #For Root Domain
+url:                https://cjhowelab.github.io/home/
+baseurl:            https://cjhowelab.github.io/home/
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
@@ -24,15 +24,15 @@ nav:
   - name:           "home"
     href:           "/"
   - name:           "research"
-    href:           "/about"
+    href:           "https://cjhowelab.github.io/home/about"
   - name:           "publications"
-    href:           "/publication"
+    href:           "https://cjhowelab.github.io/home/publication"
   - name:           "people"
-    href:           "/people"
+    href:           "https://cjhowelab.github.io/home/people"
   - name:           "blog"
-    href:           "/blog"
+    href:           "https://cjhowelab.github.io/home/blog"
   - name:           "resources"
-    href:           "/resources"
+    href:           "https://cjhowelab.github.io/home/resources"
 
 # Sass
 sass:
