@@ -10,8 +10,7 @@ description:        "this is a page for Cristopher J. Howe lab, at the Universit
 
 # URL
 url:                https://cjhowelab.github.io/home/
-baseurl:            
-#baseurl:            "" #For Root Domain
+baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
